@@ -1,4 +1,4 @@
 # style-stage-starter
 Style Stage Starter Files for Homework
 
-Read the instructions [here] (https://stylestage.dev/).
+Visit (https://stylestage.dev/) for instructions, ideas, and inspiration.
